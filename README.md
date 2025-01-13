@@ -59,6 +59,7 @@ To develop a Python and Bash scripts that automate the process of log analysis, 
 <b>.</b>
 <br/>
 
+- Bash Script: Log Analysis and Parsing
 <p align="center">
 <img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
 <br/>
@@ -71,6 +72,20 @@ To develop a Python and Bash scripts that automate the process of log analysis, 
 <b>.</b>
 <br/>
 
+- Bash Script: System Monitoring and Security Checks
+<p align="center">
+<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>.</b>
+<br/>
+
+- Bash Script: Incident Response
 <p align="center">
 <img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
 <br/>
