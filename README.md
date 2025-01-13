@@ -20,7 +20,7 @@ To develop a Python and Bash scripts that automate the process of log analysis, 
 - sha256: Used for hashing email attachments to verify their integrity and compare against known malicious hashes.
 
 ## Practical Exercises
-
+- Python Script: Log Analysis and Parsing
 <p align="center">
 <img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
 <br/>
@@ -32,7 +32,7 @@ To develop a Python and Bash scripts that automate the process of log analysis, 
 <br/>
 <b>.</b>
 <br/>
-
+- Python Script: Malware Analysis
 <p align="center">
 <img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
 <br/>
@@ -44,7 +44,7 @@ To develop a Python and Bash scripts that automate the process of log analysis, 
 <br/>
 <b>.</b>
 <br/>
-
+- Python Script: Incident Response
 <p align="center">
 <img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
 <br/>
