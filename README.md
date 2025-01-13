@@ -32,6 +32,7 @@ To develop a Python and Bash scripts that automate the process of log analysis, 
 <br/>
 <b>.</b>
 <br/>
+
 - Python Script: Malware Analysis
 <p align="center">
 <img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
@@ -44,6 +45,7 @@ To develop a Python and Bash scripts that automate the process of log analysis, 
 <br/>
 <b>.</b>
 <br/>
+
 - Python Script: Incident Response
 <p align="center">
 <img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
