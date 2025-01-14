@@ -15,6 +15,7 @@ Write a Python and Bash scripts to automate tasks such as analyzing logs, identi
 
 - Python: For writing scripts to parse logs, extract IoCs, and perform automated analysis on email files, attachments, and system logs.
 - Bash: For automating tasks like parsing system logs, monitoring login attempts, and identifying suspicious activities.
+- emldump.py and oledump.py: One of the tools in the Didier Stevens Suite is a collection of Python-based utilities for analyzing and reverse-engineering malware and malicious files.
 - grep and cut commands: Used in Bash for filtering specific log entries based on user-defined parameters.
 - find and ls commands: Used in Bash to search for modified files in a critical directory and output relevant details.
 - sha256: Used for hashing email attachments to verify their integrity and compare against known malicious hashes.
