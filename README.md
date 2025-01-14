@@ -55,9 +55,13 @@ Write a Python and Bash scripts to automate tasks such as analyzing logs, identi
 
 - Bash Script: Log Analysis and Parsing
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/9CXacLQ.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<img src="https://imgur.com/gaxpcM7.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/rCTWSLj.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Bash script will analyze the web server access logs for potential security threats, including SQL injections, XSS, DoS attempts, and more. The final findings will be saved to a .txt report.</b>
 <br/>
 
 <p align="center">
