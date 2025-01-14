@@ -108,7 +108,7 @@ Write a Python and Bash scripts to automate tasks such as analyzing logs, identi
 
 ## Acknowledgements
 
-This project combines ideas and methods from various sources, such as the TryHackMe Boogeyman 1 room, TCM Security materials, and my personal experience. Python scripts were used to automate the commands given during the lab exercises in order to increase scalability and efficiency. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
+This project combines ideas and methods from various sources, such as the TryHackMe Boogeyman 1 room, TCM Security materials, and my personal experience. Python and Bash scripts were used to automate the commands given during the lab exercises in order to increase scalability and efficiency. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
 
 - [TryHackMe Boogeyman 1](https://tryhackme.com/r/room/boogeyman1)
 - [TCM Security SOC 101](https://academy.tcm-sec.com/p/security-operations-soc-101)
