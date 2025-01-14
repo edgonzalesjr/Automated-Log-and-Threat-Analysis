@@ -43,13 +43,13 @@ Write a Python and Bash scripts to automate tasks such as analyzing logs, identi
 <br/>
  
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/S3ZBVLa.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/y5ROmeb.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/xhOlTI8.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>; Python script will automate the Python script (oledump.py) and filter out the PowerShell commands, web requests, downloads, and connections from (.xlsm or .docm) the macro code. The final findings will be saved to a .txt report.</b>
+<b>analyze_suspicious_doc.py; Python script will automate the Python script (oledump.py) and filter out the PowerShell commands, web requests, downloads, and connections from (.xlsm or .docm) the macro code. The final findings will be saved to a .txt report.</b>
 <br/>
 
 - Bash Script: Log Analysis and Parsing
