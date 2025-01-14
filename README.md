@@ -1,15 +1,15 @@
 ## Objective
 
-To develop a Python and Bash scripts that automate the process of log analysis, malware analysis, and incident response. These scripts focus on identifying suspicious activities, extracting indicators of compromise (IoC), analyzing system logs for failed login attempts, monitoring user account creation, detecting potential threats, and performing security checks on critical directories and system logs.
+Write a Python and Bash scripts to automate tasks such as analyzing logs, identifying malicious software, and resolving security issues. These scripts assist in identifying odd behavior. They check new user accounts, system logs for unsuccessful login attempts, look for warning indications, identify potential threats, and perform safety checks on important directories and logs. 
 
 ### Skills Learned
 
-- Log Analysis & Parsing: Writing scripts to parse and analyze different types of logs (JSON, CSV, Syslog, etc.) and identify suspicious activities.
-- Malware Analysis: Processing email files and attachments to detect malicious content by calculating cryptographic hashes and comparing them against known threat intelligence databases.
-- Incident Response: Automating incident response procedures, including detecting and blocking suspicious IPs, failed login attempts, and analyzing system logs for potential security threats.
-- System Monitoring & Security Checks: Writing scripts to monitor system logs for error messages, failed login attempts, hardware failures, and identifying suspicious user account creation activities.
-- Automation of Threat Detection: Automating the process of filtering and analyzing log files for common attack patterns such as SQL injection, XSS, path traversal, and brute-force login attempts.
-- Critical Directory Monitoring: Automating monitoring of critical directories for file changes and detecting anomalies based on predefined time periods.
+- Log analysis and parsing: Create scripts to read various log formats and identify odd activity.
+- Malware Analysis: Use hashes to check email files and attachments for potentially dangerous content and compare them to lists of known threats.
+- Incident Response: Check system logs for security issues and automate procedures to handle incidents like identifying and blocking malicious IP addresses or unsuccessful login attempts.
+- System monitoring and security checks: Create scripts to keep an eye on system logs for hardware issues or errors and identify odd new user accounts.
+- Automate threat detection: To filter and examine log files for frequent threats such as brute force logins and SQL injection.
+- Critical Directory Monitoring: Automatically monitor system folders for file changes and identify anomalies.
 
 ### Tools Used
 
@@ -100,11 +100,11 @@ To develop a Python and Bash scripts that automate the process of log analysis, 
 
 ## Outcome
 
-- Automated Log Analysis: The creation of scripts that efficiently parse and analyze logs to detect and report suspicious activities, including failed login attempts, suspicious URLs, and other indicators of compromise (IoCs).
-- Malware Detection: The development of Python scripts to automate the extraction and hashing of email attachments for faster identification of malicious content.
-- Enhanced Incident Response: Automating the process of detecting and mitigating threats, such as blocking IP addresses involved in brute-force login attempts.
-- Improved Security Monitoring: Implementing automated monitoring scripts to track critical directory changes, failed logins, account creation, and system errors, help to quickly identify and respond to security incidents.
-- Efficient Reporting: Generating detailed reports based on the analysis of logs, suspicious activities, and system issues, providing valuable insights.
+ - Automated Log Analysis: Wrote scripts that scan and examine logs in order to identify and report odd activity, such as unsuccessful login attempts, dubious URLs, or warning indications. 
+ - Malware Detection: Wrote Python scripts to examine and hash email attachments in order to identify potentially dangerous content. 
+ - Incident Response: Automated the process of identifying and resolving threats, such as IP blocking in brute force attacks. 
+ - Security Monitoring: Automated monitoring scripts to keep track of important folder changes, unsuccessful login attempts, new accounts, and system errors. 
+ - Effective Reporting: Generated reports by examining logs, odd behavior, and system problems in order to provide useful information.
 
 ## Acknowledgements
 - [Python](https://www.python.org/)
