@@ -31,36 +31,25 @@ Write a Python and Bash scripts to automate tasks such as analyzing logs, identi
 <b>log_analyzer.py ; Python script that parses and analyzes logs (such as JSON, CSV, or Syslog) to identify common suspicious and malicious activities, and then extracts potential Indicators of Compromise (IoC) such as IP addresses, user agents, URLs, etc. It then saves the results in a report template (report.txt)..</b>
 <br/>
 
+- Python Script: Phishing Analysis
+<p align="center">
+<img src="https://imgur.com/nfIFIQG.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/3OijaXv.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/vMGt8bi.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>extract_attach_hash.py; Python script will automate the Python script (emldump.py) that is processing an email file (sample1.eml), extracting certain parts of it, and then working with the resulting file (quotation.iso) to calculate its hash (SHA256). The final findings will be saved to a .txt report.</b>
+<br/>
+ 
 <p align="center">
 <img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
-<br/>
-
-- Python Script: Malware Analysis
-<p align="center">
 <img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
-<br/>
-
-<p align="center">
 <img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
-<br/>
-
-- Python Script: Incident Response
-<p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
-<br/>
-<b>.</b>
-<br/>
-
-<p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
-<br/>
-<b>.</b>
+<b>; Python script will automate the Python script (oledump.py) and filter out the PowerShell commands, web requests, downloads, and connections from (.xlsm or .docm) the macro code. The final findings will be saved to a .txt report.</b>
 <br/>
 
 - Bash Script: Log Analysis and Parsing
