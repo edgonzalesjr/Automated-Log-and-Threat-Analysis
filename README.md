@@ -61,39 +61,18 @@ Write a Python and Bash scripts to automate tasks such as analyzing logs, identi
 <br/>
 <img src="https://imgur.com/rCTWSLj.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Bash script will analyze the web server access logs for potential security threats, including SQL injections, XSS, DoS attempts, and more. The final findings will be saved to a .txt report.</b>
-<br/>
-
-<p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
-<br/>
-<b>.</b>
+<b>check_web_server_log.sh; Bash script will analyze the web server access logs for common security threats, including SQL injections, XSS, DoS attempts, and more. The final findings will be saved to a .txt report.</b>
 <br/>
 
 - Bash Script: System Monitoring and Security Checks
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/x3jCm6G.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<img src="https://imgur.com/WMv0h3U.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-
-<p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/M5wgGti.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
-<br/>
-
-- Bash Script: Incident Response
-<p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
-<br/>
-<b>.</b>
-<br/>
-
-<p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
-<br/>
-<b>.</b>
+<b>analyze_failed_logins.sh; Bash script that analyzes authentication logs to identify failed login attempts, including SSH and local logins, and account lockouts. It generates a detailed report summarizing usernames, login methods, and associated IP addresses.</b>
 <br/>
 
 ## Outcome
