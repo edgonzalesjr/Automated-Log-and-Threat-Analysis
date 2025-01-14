@@ -89,6 +89,7 @@ This project combines ideas and methods from various sources, such as the TryHac
 
 - [TryHackMe Boogeyman 1](https://tryhackme.com/r/room/boogeyman1)
 - [TCM Security SOC 101](https://academy.tcm-sec.com/p/security-operations-soc-101)
+- [Didier Stevens](https://github.com/DidierStevens/DidierStevensSuite)
 
 ## Disclaimer
 
