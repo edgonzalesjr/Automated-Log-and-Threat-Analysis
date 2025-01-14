@@ -24,9 +24,9 @@ Write a Python and Bash scripts to automate tasks such as analyzing logs, identi
 <p align="center">
 <img src="https://imgur.com/bqfRxsa.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/2iF8BhK.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/AIPQCv2.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>log_analyzer.py ; Python script that parses and analyzes logs (such as JSON, CSV, or Syslog) to identify common suspicious and malicious activities, and then extracts potential Indicators of Compromise (IoC) such as IP addresses, user agents, URLs, etc. It then saves the results in a report template (report.txt)..</b>
 <br/>
