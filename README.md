@@ -65,7 +65,7 @@ Write Python and Bash scripts to automate tasks such as Analyzing Logs, Phishing
 <br/>
 <img src="https://imgur.com/WMv0h3U.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/M5wgGti.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/yyXD4BX.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>analyze_failed_logins.sh; Bash script that analyzes authentication logs to identify failed login attempts, including SSH and local logins, and account lockouts. It generates a detailed report summarizing usernames, login methods, and associated IP addresses.</b>
 <br/>
