@@ -90,7 +90,7 @@ Write a Python and Bash scripts to automate tasks such as analyzing logs, identi
  - Automated Log Analysis: Wrote scripts that scan and examine logs in order to identify and report odd activity, such as unsuccessful login attempts, dubious URLs, or warning indications. 
  - Malware Detection: Wrote Python scripts to examine and hash email attachments in order to identify potentially dangerous content. 
  - Incident Response: Automated the process of identifying and resolving threats, such as IP blocking in brute force attacks. 
- - Security Monitoring: Automated monitoring scripts to keep track of important folder changes, unsuccessful login attempts, new accounts, and system errors. 
+ - Security Monitoring: Automated monitoring scripts to keep track of unsuccessful local and SSH login attempts.
  - Effective Reporting: Generated reports by examining logs, odd behavior, and system problems in order to provide useful information.
 
 ## Acknowledgements
