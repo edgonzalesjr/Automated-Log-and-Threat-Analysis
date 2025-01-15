@@ -1,24 +1,19 @@
 ## Objective
 
-Write a Python and Bash scripts to automate tasks such as analyzing logs, identifying malicious software, and resolving security issues. These scripts assist in identifying odd behavior. They check new user accounts, system logs for unsuccessful login attempts, look for warning indications, identify potential threats, and perform safety checks on important directories and logs. 
+Write Python and Bash scripts to automate tasks such as Analyzing Logs, Phishing Analysis, Security Monitoring, and Incident Response. These scripts will help identify odd behaviors, gather indicators of compromise, inspect authentication logs for unsuccessful local and SSH login attempts, and detect and block brute-force attacks.
 
 ### Skills Learned
 
 - Log analysis and parsing: Create scripts to read various log formats and identify odd activity.
-- Malware Analysis: Use hashes to check email files and attachments for potentially dangerous content and compare them to lists of known threats.
-- Incident Response: Check system logs for security issues and automate procedures to handle incidents like identifying and blocking malicious IP addresses or unsuccessful login attempts.
-- System monitoring and security checks: Create scripts to keep an eye on system logs for hardware issues or errors and identify odd new user accounts.
-- Automate threat detection: To filter and examine log files for frequent threats such as brute force logins and SQL injection.
-- Critical Directory Monitoring: Automatically monitor system folders for file changes and identify anomalies.
+- Phishing Analysis: Use hashes to check email files and attachments for potentially dangerous content.
+- Security Monitoring: Create scripts to keep an eye on authentication logs for local and SSH failed login attempts.
+- Incident Response: Automate procedures to handle incidents like identifying and blocking malicious IP addresses.
 
 ### Tools Used
 
-- Python: For writing scripts to parse logs, extract IoCs, and perform automated analysis on email files, attachments, and system logs.
+- Python: For writing scripts to parse logs, extract IoCs, and perform automated analysis on email files and attachments.
 - Bash: For automating tasks like parsing system logs, monitoring login attempts, and identifying suspicious activities.
 - Didier Stevens Suite: Collection of Python-based utilities for analyzing and reverse-engineering malware and malicious files.
-- grep and cut commands: Used in Bash for filtering specific log entries based on user-defined parameters.
-- find and ls commands: Used in Bash to search for modified files in a critical directory and output relevant details.
-- sha256: Used for hashing email attachments to verify their integrity and compare against known malicious hashes.
 
 ## Practical Exercises
 - Python Script: Log Analysis and Parsing
@@ -64,7 +59,7 @@ Write a Python and Bash scripts to automate tasks such as analyzing logs, identi
 <b>check_web_server_log.sh; Bash script will analyze the web server access logs for common security threats, including SQL injections, XSS, DoS attempts, and more. The final findings will be saved to a .txt report.</b>
 <br/>
 
-- Bash Script: System Monitoring and Security Checks
+- Bash Script: Security Monitoring and Incident Response
 <p align="center">
 <img src="https://imgur.com/x3jCm6G.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
@@ -87,11 +82,11 @@ Write a Python and Bash scripts to automate tasks such as analyzing logs, identi
 
 ## Outcome
 
- - Automated Log Analysis: Wrote scripts that scan and examine logs in order to identify and report odd activity, such as unsuccessful login attempts, dubious URLs, or warning indications. 
- - Malware Detection: Wrote Python scripts to examine and hash email attachments in order to identify potentially dangerous content. 
- - Incident Response: Automated the process of identifying and resolving threats, such as IP blocking in brute force attacks. 
- - Security Monitoring: Automated monitoring scripts to keep track of unsuccessful local and SSH login attempts.
- - Effective Reporting: Generated reports by examining logs, odd behavior, and system problems in order to provide useful information.
+- Automated Log Analysis: Wrote scripts that scan and examine logs to identify and report odd activity, such as unsuccessful login attempts, shady URLs, or warning indications. 
+- Malware Analysis: Wrote Python scripts to examine and hash email attachments to identify potentially dangerous content. 
+- Incident Response: Automated the process of identifying and resolving threats, such as IP blocking in brute force attacks. 
+- Security Monitoring: Automated monitoring scripts to keep track of unsuccessful local and SSH login attempts.
+- Effective Reporting: Generated template reports based on the results of Incident Response and Security Monitoring activities to provide useful information.
 
 ## Acknowledgements
 
