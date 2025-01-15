@@ -75,6 +75,16 @@ Write a Python and Bash scripts to automate tasks such as analyzing logs, identi
 <b>analyze_failed_logins.sh; Bash script that analyzes authentication logs to identify failed login attempts, including SSH and local logins, and account lockouts. It generates a detailed report summarizing usernames, login methods, and associated IP addresses.</b>
 <br/>
 
+<p align="center">
+<img src="https://imgur.com/sV5aWDC.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/UOHWcrI.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/DexWIFZ.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>block_ssh_brute_force.sh; Bash script that monitors SSH brute force attempts by analyzing the auth.log file, identifies suspicious IP addresses based on failed login attempts, and blocks them using iptables.</b>
+<br/>
+
 ## Outcome
 
  - Automated Log Analysis: Wrote scripts that scan and examine logs in order to identify and report odd activity, such as unsuccessful login attempts, dubious URLs, or warning indications. 
