@@ -16,6 +16,7 @@ Write Python and Bash scripts to automate tasks such as Analyzing Logs, Phishing
 - Python: For writing scripts to parse logs, extract IoCs, and perform automated analysis on email files and attachments.
 - Bash: For automating tasks like parsing system logs, monitoring login attempts, and identifying suspicious activities.
 - Didier Stevens Suite: Collection of Python-based utilities for analyzing and reverse-engineering malware and malicious files.
+- Sublime Text: Text editor to open the .eml file.
 
 ## Practical Exercises
 - Python Script: Log Analysis and Parsing
