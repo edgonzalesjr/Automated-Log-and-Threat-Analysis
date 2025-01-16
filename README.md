@@ -11,6 +11,8 @@ Write Python and Bash scripts to automate tasks such as Analyzing Logs, Phishing
 
 ### Tools Used
 
+- Ubuntu Desktop: Utilize this system to host the SSH server, and to write and test Python and Bash scripts.
+- Kali Linux: Penetration testing tool to perform SSH bruteforce attack on Ubuntu machine.
 - Python: For writing scripts to parse logs, extract IoCs, and perform automated analysis on email files and attachments.
 - Bash: For automating tasks like parsing system logs, monitoring login attempts, and identifying suspicious activities.
 - Didier Stevens Suite: Collection of Python-based utilities for analyzing and reverse-engineering malware and malicious files.
@@ -91,11 +93,13 @@ Write Python and Bash scripts to automate tasks such as Analyzing Logs, Phishing
 ## Acknowledgements
 
 This project combines ideas and methods from various sources, such as the TryHackMe Boogeyman 1 room, TCM Security SOC 101 class, and my IT experience. Python scripts were used to automate the commands given during the lab exercises in order to increase scalability and efficiency. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
-
-- [TryHackMe Boogeyman 1](https://tryhackme.com/r/room/boogeyman1)
-- [TCM Security SOC 101](https://academy.tcm-sec.com/p/security-operations-soc-101)
-- [Didier Stevens](https://github.com/DidierStevens/DidierStevensSuite)
-
+ - [TryHackMe Boogeyman 1](https://tryhackme.com/r/room/boogeyman1)
+ - [TCM Security SOC 101](https://academy.tcm-sec.com/p/security-operations-soc-101)
+ - [Ubuntu Desktop](https://ubuntu.com/download/desktop)
+ - [Kali Linux](https://www.kali.org/)
+ - [Didier Stevens](https://github.com/DidierStevens/DidierStevensSuite)
+ - [Sublime Text](https://www.sublimetext.com/)
+ 
 ## Disclaimer
 
 The sole goals of the projects and activities here are for education and ethical cybersecurity research. All work was conducted in controlled environments, such as paid cloud spaces, private labs, and online cybersecurity education platforms. Online learning and cloud tasks adhered closely to all usage guidelines. Never use these projects for improper or unlawful purposes. It is always prohibited to break into any computer system or network. Any misuse of the provided information or code is not the responsibility of the author or authors. 
